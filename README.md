@@ -1,2 +1,2 @@
 # reversing
-Mostly malware analysis writeups
+(Mostly) malware analysis writeups
